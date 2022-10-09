@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai2", "Bai2\Bai2.vcxproj", "{93004F89-070C-486D-8437-514B51613CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93004F89-070C-486D-8437-514B51613CFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93004F89-070C-486D-8437-514B51613CFF}.Debug|Win32.Build.0 = Debug|Win32
+		{93004F89-070C-486D-8437-514B51613CFF}.Release|Win32.ActiveCfg = Release|Win32
+		{93004F89-070C-486D-8437-514B51613CFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

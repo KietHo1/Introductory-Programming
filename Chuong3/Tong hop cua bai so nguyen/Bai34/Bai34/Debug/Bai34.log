@@ -1,0 +1,11 @@
+﻿Build started 5/23/2022 10:14:03 AM.
+     1>Project "D:\Nhap mon lap trinh\Chuong3\Baitap34trang61\Bai34\Bai34\Bai34.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VISUAL STUDIO 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bai34.cpp
+         Bai34.cpp
+     1>d:\nhap mon lap trinh\chuong3\baitap34trang61\bai34\bai34\bai34.cpp(6): error C3861: 'sochuso': identifier not found
+     1>Done Building Project "D:\Nhap mon lap trinh\Chuong3\Baitap34trang61\Bai34\Bai34\Bai34.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.13
